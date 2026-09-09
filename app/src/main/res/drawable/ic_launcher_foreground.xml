@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet body -->
+    <path
+        android:pathData="M27,42 C27,37.6 30.6,34 35,34 L73,34 C77.4,34 81,37.6 81,42 L81,70 C81,74.4 77.4,78 73,78 L35,78 C30.6,78 27,74.4 27,70 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Wallet upper flap shadow/accent -->
+    <path
+        android:pathData="M27,42 C27,37.6 30.6,34 35,34 L73,34 C77.4,34 81,37.6 81,42 L81,47 L27,47 Z"
+        android:fillColor="#00B0FF" />
+
+    <!-- Wallet card slot / credit line -->
+    <path
+        android:pathData="M33,39 L75,39"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Clasp pocket flap -->
+    <path
+        android:pathData="M65,51 C65,48.8 66.8,47 69,47 L83,47 L83,65 L69,65 C66.8,65 65,63.2 65,61 Z"
+        android:fillColor="#00C853" />
+
+    <!-- Golden Clasp Coin / Button -->
+    <path
+        android:pathData="M73,56m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0"
+        android:fillColor="#FFD700" />
+
+    <!-- 4 Family Dots / Members Emblem on Wallet -->
+    <!-- Member 1: Dad -->
+    <path
+        android:pathData="M38,55m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M34,68 C34,63 42,63 42,68 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Member 2: Mom -->
+    <path
+        android:pathData="M48,55m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M44,68 C44,63 52,63 52,68 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Member 3: Child 1 -->
+    <path
+        android:pathData="M56,58m-2.2,0a2.2,2.2 0 1,0 4.4,0a2.2,2.2 0 1,0 -4.4,0"
+        android:fillColor="#FFEB3B" />
+    <path
+        android:pathData="M53,68 C53,64 59,64 59,68 Z"
+        android:fillColor="#FFEB3B" />
+</vector>

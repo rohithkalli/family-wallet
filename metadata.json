@@ -1,0 +1,6 @@
+{
+  "name": "Family Wallet",
+  "description": "Comprehensive family finance and budget management app for a family of four.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
